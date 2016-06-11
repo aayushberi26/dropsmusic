@@ -1,0 +1,8 @@
+body{
+    background-image: url("../img/raveedited.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:#222;
+    padding-top: 1%;
+    padding-bottom:1%;
+}
