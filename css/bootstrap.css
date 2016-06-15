@@ -24,8 +24,8 @@ html {
 }
 .btn-custom {
   color: #fff;
-  background-color: #ffa703;
-  border-color: #ffa703;
+  background-color: #446CB3;
+  border-color: #446CB3;
 }
 .btn-custom:focus,
 .btn-custom.focus {
@@ -3337,19 +3337,19 @@ fieldset[disabled] .btn-info.focus {
 }
 .btn-warning {
   color: #fff;
-  background-color: #f0ad4e;
-  border-color: #eea236;
+  background-color: #3498DB;
+  border-color: #3498DB;
 }
 .btn-warning:focus,
 .btn-warning.focus {
   color: #fff;
-  background-color: #ec971f;
-  border-color: #985f0d;
+  background-color: #59ABE3;
+  border-color: #59ABE3;
 }
 .btn-warning:hover {
   color: #fff;
-  background-color: #ec971f;
-  border-color: #d58512;
+  background-color: #59ABE3;
+  border-color: #59ABE3;
 }
 .btn-warning:active,
 .btn-warning.active,
@@ -4567,7 +4567,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #CE8500;
+  color: #3A539B;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
