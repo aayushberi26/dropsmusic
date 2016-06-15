@@ -1,8 +1,28 @@
 body{
-    background-image: url("../img/raveedited.png");
     background-attachment: fixed;
     background-size: cover;
-    background-color:#222;
-    padding-top: 1%;
+    background-color:#FFFFFF;
     padding-bottom:1%;
+}
+
+.my-back {
+	background-image: url("../img/raveedited.png");
+}
+
+.bottompad {
+	margin-bottom: 100px;
+}
+
+column-img {
+	float: left;
+}
+column-head {
+	font-family: 'Kameron', sans-serif;
+	margin-top: 10px;
+	float: right;
+}
+column-text {
+	font-family: 'Kameron', sans-serif; 
+	margin-top: 25px;
+	float: right;
 }
