@@ -6,7 +6,10 @@ body{
 }
 
 .my-back {
-	background-image: url("../img/rave3.png");
+	background-image: url("../img/raveblue.png");
+	background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .bottompad {
